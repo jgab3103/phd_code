@@ -1,0 +1,65 @@
+@page { 
+	margin: 2cm;
+	margin-left: 3cm;
+	margin-right: 3cm; 
+	size: portrait; 
+	marks: none; 
+} 
+
+
+
+
+
+
+td {
+	border: 1px solid;
+	padding: 3px;
+}
+
+th {
+	text-align: left;
+}
+
+
+body {
+ background-color: white;
+ color: black;
+ font-family: arial;
+
+}
+
+
+p {
+
+	 font-size: 140%;
+
+}
+
+
+
+h2, h3, h4, h5{
+	padding-left: 0px;
+	margin-left: 0px;
+	font-size: 120%
+}	
+
+img {
+	
+}
+
+
+
+
+.output_subarea {
+	margin-left: 150px;
+	padding-left: 150px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+.prompt{
+	visibility: hidden;
+	
+}
+
+
