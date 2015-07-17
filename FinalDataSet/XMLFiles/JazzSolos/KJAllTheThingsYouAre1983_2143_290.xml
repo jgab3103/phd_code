@@ -7,7 +7,7 @@
  <identification>
   <creator type="composer">Keith Jarrett</creator>
   <encoding>
-   <encoding-date>2015-06-03</encoding-date>
+   <encoding-date>2015-07-17</encoding-date>
    <encoder>Jamie Gabriel</encoder>
    <software>Sibelius 7.5.0</software>
    <software>Direct export, not from Dolet</software>
@@ -30954,7 +30954,7 @@
   <measure number="2" width="143">
    <direction>
     <direction-type>
-     <words default-x="21" default-y="-87" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="21" default-y="-87" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31018,7 +31018,7 @@
   <measure number="5" width="148">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-86" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-86" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31118,7 +31118,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="63" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="63" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31238,7 +31238,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31260,7 +31260,7 @@
   <measure number="14" width="75">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="-5" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31324,7 +31324,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="111" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="111" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31425,7 +31425,7 @@
   <measure number="20" width="233">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="15" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31526,7 +31526,7 @@
   <measure number="24" width="315">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31584,7 +31584,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31626,7 +31626,7 @@
   <measure number="28" width="207">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31648,7 +31648,7 @@
   <measure number="29" width="229">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31728,7 +31728,7 @@
   <measure number="32" width="228">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31831,7 +31831,7 @@
   <measure number="36" width="210">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31908,7 +31908,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="197" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="197" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31973,7 +31973,7 @@
   <measure number="41" width="134">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32073,7 +32073,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="224" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="224" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32193,7 +32193,7 @@
   <measure number="49" width="225">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32215,7 +32215,7 @@
   <measure number="50" width="188">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32293,7 +32293,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="279" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="279" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32408,7 +32408,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32509,7 +32509,7 @@
   <measure number="60" width="230">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32553,7 +32553,7 @@
   <measure number="62" width="267">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="14" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32609,7 +32609,7 @@
   <measure number="64" width="324">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32631,7 +32631,7 @@
   <measure number="65" width="300">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32711,7 +32711,7 @@
   <measure number="68" width="326">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32828,7 +32828,7 @@
   <measure number="72" width="349">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32905,7 +32905,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="115" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="115" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32984,7 +32984,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33084,7 +33084,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="166" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="166" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33232,7 +33232,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33254,7 +33254,7 @@
   <measure number="86" width="444">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33332,7 +33332,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="135" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="135" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33433,7 +33433,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="114" default-y="-78" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="114" default-y="-78" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33548,7 +33548,7 @@
   <measure number="96" width="296">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33606,7 +33606,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33662,7 +33662,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="101" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33684,7 +33684,7 @@
   <measure number="101" width="298">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33764,7 +33764,7 @@
   <measure number="104" width="232">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33867,7 +33867,7 @@
   <measure number="108" width="460">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33944,7 +33944,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="232" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="232" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34023,7 +34023,7 @@
   <measure number="113" width="103">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34123,7 +34123,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="271" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="271" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34271,7 +34271,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34293,7 +34293,7 @@
   <measure number="122" width="423">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34385,7 +34385,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="325" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="325" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34486,7 +34486,7 @@
   <measure number="128" width="425">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-78" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="15" default-y="-78" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34601,7 +34601,7 @@
   <measure number="132" width="269">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34659,7 +34659,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34701,7 +34701,7 @@
   <measure number="136" width="275">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34723,7 +34723,7 @@
   <measure number="137" width="222">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34817,7 +34817,7 @@
   <measure number="140" width="171">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34920,7 +34920,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34983,7 +34983,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="127" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="127" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35076,7 +35076,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35162,7 +35162,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="79" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="79" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35282,7 +35282,7 @@
   <measure number="157" width="308">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35318,7 +35318,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35396,7 +35396,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="107" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="107" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35497,7 +35497,7 @@
   <measure number="164" width="461">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35612,7 +35612,7 @@
   <measure number="168" width="308">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35670,7 +35670,7 @@
   <measure number="170" width="464">
    <direction>
     <direction-type>
-     <words default-x="16" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="16" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35740,7 +35740,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="101" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35762,7 +35762,7 @@
   <measure number="173" width="330">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35842,7 +35842,7 @@
   <measure number="176" width="229">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -35945,7 +35945,7 @@
   <measure number="180" width="230">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36008,7 +36008,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="124" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="124" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36087,7 +36087,7 @@
   <measure number="185" width="240">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36187,7 +36187,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="167" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="167" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36307,7 +36307,7 @@
   <measure number="193" width="175">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36343,7 +36343,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36407,7 +36407,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="134" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="134" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36508,7 +36508,7 @@
   <measure number="200" width="198">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36609,7 +36609,7 @@
   <measure number="204" width="262">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36653,7 +36653,7 @@
   <measure number="206" width="210">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="14" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36709,7 +36709,7 @@
   <measure number="208" width="193">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36731,7 +36731,7 @@
   <measure number="209" width="181">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36811,7 +36811,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="105" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="105" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36914,7 +36914,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -36977,7 +36977,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="126" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="126" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37056,7 +37056,7 @@
   <measure number="221" width="244">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37156,7 +37156,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="270" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="270" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37276,7 +37276,7 @@
   <measure number="229" width="251">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37298,7 +37298,7 @@
   <measure number="230" width="219">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37376,7 +37376,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="136" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="136" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37477,7 +37477,7 @@
   <measure number="236" width="292">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37578,7 +37578,7 @@
   <measure number="240" width="277">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="17" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37650,7 +37650,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="101" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37692,7 +37692,7 @@
   <measure number="244" width="228">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37714,7 +37714,7 @@
   <measure number="245" width="225">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37794,7 +37794,7 @@
   <measure number="248" width="259">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37911,7 +37911,7 @@
   <measure number="252" width="338">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -37988,7 +37988,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="210" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="210" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38053,7 +38053,7 @@
   <measure number="257" width="243">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38167,7 +38167,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="244" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G 7</words>
+     <words default-x="244" default-y="-126" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38287,7 +38287,7 @@
   <measure number="265" width="214">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38323,7 +38323,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38401,7 +38401,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="161" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="161" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38502,7 +38502,7 @@
   <measure number="272" width="335">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="14" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38617,7 +38617,7 @@
   <measure number="276" width="458">
    <direction>
     <direction-type>
-     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B 7</words>
+     <words default-x="15" default-y="-95" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">B dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38675,7 +38675,7 @@
   <measure number="278" width="249">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38717,7 +38717,7 @@
   <measure number="280" width="213">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38753,7 +38753,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="101" default-y="-77" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="101" default-y="-85" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38833,7 +38833,7 @@
   <measure number="284" width="464">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -38936,7 +38936,7 @@
   <measure number="288" width="240">
    <direction>
     <direction-type>
-     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb 7</words>
+     <words default-x="14" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -39013,7 +39013,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="200" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C7</words>
+     <words default-x="200" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>

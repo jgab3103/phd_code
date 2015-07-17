@@ -6,7 +6,7 @@
  </work>
  <identification>
   <encoding>
-   <encoding-date>2015-06-03</encoding-date>
+   <encoding-date>2015-07-17</encoding-date>
    <encoder>Jamie Gabriel</encoder>
    <software>Sibelius 7.5.0</software>
    <software>Direct export, not from Dolet</software>
@@ -3751,7 +3751,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="146" default-y="-39">
+   <note color="#000000" default-x="147" default-y="-39">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -3764,7 +3764,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="173" default-y="-39">
+   <note color="#000000" default-x="174" default-y="-39">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -3835,7 +3835,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 38 ==============-->
-  <measure number="38" width="231">
+  <measure number="38" width="230">
    <note color="#000000" default-x="15" default-y="-52">
     <pitch>
      <step>C</step>
@@ -3850,7 +3850,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="42" default-y="-52">
+   <note color="#000000" default-x="41" default-y="-52">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -3864,7 +3864,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="69" default-y="-52">
+   <note color="#000000" default-x="68" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -3878,7 +3878,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="96" default-y="-52">
+   <note color="#000000" default-x="95" default-y="-52">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -3892,7 +3892,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="123" default-y="-52">
+   <note color="#000000" default-x="122" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -3905,7 +3905,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="150" default-y="-52">
+   <note color="#000000" default-x="149" default-y="-52">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -3918,7 +3918,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="177" default-y="-52">
+   <note color="#000000" default-x="176" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -3931,7 +3931,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="204" default-y="-52">
+   <note color="#000000" default-x="203" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -4089,7 +4089,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="69" default-y="12">
+   <note color="#000000" default-x="68" default-y="12">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -4130,7 +4130,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="154">
+   <note color="#000000" default-x="153">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -4635,7 +4635,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="118" default-y="12">
+   <note color="#000000" default-x="119" default-y="12">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -4716,7 +4716,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="285" default-y="-52">
+   <note color="#000000" default-x="286" default-y="-52">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4734,7 +4734,7 @@
   </measure>
   <!--============== Part: P1, Measure: 48 ==============-->
   <measure number="48" width="225">
-   <note color="#000000" default-x="19" default-y="-49">
+   <note color="#000000" default-x="18" default-y="-49">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -4748,7 +4748,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="47" default-y="-49">
+   <note color="#000000" default-x="46" default-y="-49">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -4762,7 +4762,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="76" default-y="-49">
+   <note color="#000000" default-x="75" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4777,7 +4777,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="103" default-y="-49">
+   <note color="#000000" default-x="102" default-y="-49">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -4791,7 +4791,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="131" default-y="-49">
+   <note color="#000000" default-x="130" default-y="-49">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -4805,7 +4805,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="160" default-y="-49">
+   <note color="#000000" default-x="159" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -4919,7 +4919,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="180" default-y="-49">
+   <note color="#000000" default-x="181" default-y="-49">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -5046,7 +5046,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="210" default-y="-52">
+   <note color="#000000" default-x="209" default-y="-52">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -5117,7 +5117,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="192" default-y="-39">
+   <note color="#000000" default-x="193" default-y="-39">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5159,7 +5159,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 52 ==============-->
-  <measure number="52" width="205">
+  <measure number="52" width="206">
    <note color="#000000" default-x="15" default-y="-45">
     <pitch>
      <step>D</step>
@@ -5186,7 +5186,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="111" default-y="-50">
+   <note color="#000000" default-x="112" default-y="-50">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -5198,7 +5198,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="158" default-y="5">
+   <note color="#000000" default-x="159" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -5281,7 +5281,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 54 ==============-->
-  <measure number="54" width="125">
+  <measure number="54" width="124">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -5816,7 +5816,7 @@
      <tied type="stop" />
     </notations>
    </note>
-   <note color="#000000" default-x="117" default-y="-49">
+   <note color="#000000" default-x="118" default-y="-49">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -5830,7 +5830,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="143" default-y="-49">
+   <note color="#000000" default-x="144" default-y="-49">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -5881,7 +5881,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 62 ==============-->
-  <measure number="62" width="135">
+  <measure number="62" width="136">
    <note default-x="15">
     <rest />
     <duration>512</duration>
@@ -5903,7 +5903,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="73" default-y="-42">
+   <note color="#000000" default-x="74" default-y="-42">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -5917,7 +5917,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="93" default-y="-42">
+   <note color="#000000" default-x="94" default-y="-42">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -5930,7 +5930,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="113" default-y="-42">
+   <note color="#000000" default-x="114" default-y="-42">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -5946,7 +5946,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 63 ==============-->
-  <measure number="63" width="190">
+  <measure number="63" width="188">
    <note color="#000000" default-x="15" default-y="-52">
     <pitch>
      <step>D</step>
@@ -5960,7 +5960,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="40" default-y="-52">
+   <note color="#000000" default-x="37" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -5973,7 +5973,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="60" default-y="-52">
+   <note color="#000000" default-x="57" default-y="-52">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -5986,7 +5986,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="79" default-y="-52">
+   <note color="#000000" default-x="77" default-y="-52">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -6000,7 +6000,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="99" default-y="-32">
+   <note color="#000000" default-x="97" default-y="-32">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -6013,7 +6013,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="119" default-y="-32">
+   <note color="#000000" default-x="117" default-y="-32">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -6026,7 +6026,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="141" default-y="-32">
+   <note color="#000000" default-x="139" default-y="-32">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -6040,7 +6040,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="165" default-y="-32">
+   <note color="#000000" default-x="163" default-y="-32">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -6100,7 +6100,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="95" default-y="-39">
+   <note color="#000000" default-x="96" default-y="-39">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -6142,7 +6142,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="167" default-y="-49">
+   <note color="#000000" default-x="168" default-y="-49">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -6156,7 +6156,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="193" default-y="-49">
+   <note color="#000000" default-x="194" default-y="-49">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -6212,7 +6212,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="74" default-y="-42">
+   <note color="#000000" default-x="75" default-y="-42">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -6622,7 +6622,7 @@
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note color="#000000" default-x="92" default-y="24">
+   <note color="#000000" default-x="91" default-y="24">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -6651,7 +6651,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="147" default-y="24">
+   <note color="#000000" default-x="146" default-y="24">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -6665,7 +6665,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="173" default-y="24">
+   <note color="#000000" default-x="172" default-y="24">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -6678,7 +6678,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="199" default-y="2">
+   <note color="#000000" default-x="198" default-y="2">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -6705,7 +6705,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="254">
+   <note color="#000000" default-x="253">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -6762,7 +6762,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="138" default-y="-39">
+   <note color="#000000" default-x="139" default-y="-39">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -6777,7 +6777,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 73 ==============-->
-  <measure number="73" width="228">
+  <measure number="73" width="229">
    <note color="#000000" default-x="15" default-y="12">
     <pitch>
      <step>B</step>
@@ -6892,7 +6892,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 74 ==============-->
-  <measure number="74" width="228">
+  <measure number="74" width="229">
    <note color="#000000" default-x="15" default-y="4">
     <pitch>
      <step>A</step>
@@ -7552,7 +7552,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="243" default-y="-22">
+   <note color="#000000" default-x="244" default-y="-22">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -7608,8 +7608,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 80 ==============-->
-  <measure number="80" width="323">
-   <note color="#000000" default-x="19" default-y="-44">
+  <measure number="80" width="322">
+   <note color="#000000" default-x="18" default-y="-44">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -7624,7 +7624,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="57" default-y="-44">
+   <note color="#000000" default-x="56" default-y="-44">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -7639,7 +7639,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="95" default-y="-44">
+   <note color="#000000" default-x="94" default-y="-44">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -7653,7 +7653,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="133" default-y="-44">
+   <note color="#000000" default-x="132" default-y="-44">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -7667,7 +7667,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="171" default-y="-52">
+   <note color="#000000" default-x="170" default-y="-52">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -7681,7 +7681,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="209" default-y="-52">
+   <note color="#000000" default-x="208" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -7695,7 +7695,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="247" default-y="-52">
+   <note color="#000000" default-x="246" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -7709,7 +7709,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="285" default-y="-52">
+   <note color="#000000" default-x="284" default-y="-52">
     <pitch>
      <step>A</step>
      <alter>1</alter>
@@ -7726,7 +7726,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 81 ==============-->
-  <measure number="81" width="294">
+  <measure number="81" width="295">
    <note color="#000000" default-x="15" default-y="4">
     <pitch>
      <step>A</step>
@@ -7784,7 +7784,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="180" default-y="12">
+   <note color="#000000" default-x="181" default-y="12">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -7798,7 +7798,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="218" default-y="12">
+   <note color="#000000" default-x="219" default-y="12">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -7811,7 +7811,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="256" default-y="12">
+   <note color="#000000" default-x="257" default-y="12">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -7997,7 +7997,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="159" default-y="4">
+   <note color="#000000" default-x="160" default-y="4">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -8054,7 +8054,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="296" default-y="-52">
+   <note color="#000000" default-x="297" default-y="-52">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -8120,7 +8120,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="142">
+   <note default-x="143">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -8130,7 +8130,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 85 ==============-->
-  <measure number="85" width="248">
+  <measure number="85" width="249">
    <note color="#000000" default-x="16" default-y="-45">
     <pitch>
      <step>D</step>
@@ -8168,7 +8168,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="145" default-y="-44">
+   <note color="#000000" default-x="146" default-y="-44">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -8217,7 +8217,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="63" default-y="-55">
+   <note color="#000000" default-x="62" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -8229,7 +8229,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="97" default-y="10">
+   <note color="#000000" default-x="96" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -8243,7 +8243,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note default-x="161">
+   <note default-x="160">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -9149,7 +9149,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 96 ==============-->
-  <measure number="96" width="216">
+  <measure number="96" width="215">
    <note color="#000000" default-x="15" default-y="-40">
     <pitch>
      <step>E</step>
@@ -9177,7 +9177,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="86" default-y="-34">
+   <note color="#000000" default-x="85" default-y="-34">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -9218,7 +9218,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="175" default-y="-40">
+   <note color="#000000" default-x="174" default-y="-40">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -9302,7 +9302,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="163" default-y="-57">
+   <note color="#000000" default-x="164" default-y="-57">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -9434,7 +9434,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="192" default-y="-44">
+   <note color="#000000" default-x="193" default-y="-44">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -9677,7 +9677,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 102 ==============-->
-  <measure number="102" width="312">
+  <measure number="102" width="311">
    <note color="#000000" default-x="15" default-y="5">
     <pitch>
      <step>G</step>
@@ -9691,7 +9691,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note default-x="81">
+   <note default-x="80">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -9699,7 +9699,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="129" default-y="-5">
+   <note color="#000000" default-x="128" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -9712,7 +9712,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="176">
+   <note color="#000000" default-x="175">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -9727,7 +9727,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="265" default-y="-10">
+   <note color="#000000" default-x="264" default-y="-10">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -9763,7 +9763,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="127" default-y="-10">
+   <note color="#000000" default-x="128" default-y="-10">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -9790,7 +9790,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="263" default-y="-15">
+   <note color="#000000" default-x="264" default-y="-15">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -10265,7 +10265,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 111 ==============-->
-  <measure number="111" width="597">
+  <measure number="111" width="598">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -10305,7 +10305,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="217" default-y="14">
+   <note color="#000000" default-x="218" default-y="14">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -10345,7 +10345,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="407" default-y="-52">
+   <note color="#000000" default-x="408" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -10371,7 +10371,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="534" default-y="-52">
+   <note color="#000000" default-x="535" default-y="-52">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -10386,8 +10386,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 112 ==============-->
-  <measure number="112" width="415">
-   <note color="#000000" default-x="19" default-y="-30">
+  <measure number="112" width="414">
+   <note color="#000000" default-x="18" default-y="-30">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -10402,7 +10402,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="137" default-y="-40">
+   <note color="#000000" default-x="136" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -10415,7 +10415,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="201" default-y="-52">
+   <note color="#000000" default-x="200" default-y="-52">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -10430,7 +10430,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="264" default-y="-52">
+   <note color="#000000" default-x="263" default-y="-52">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -10887,7 +10887,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 118 ==============-->
-  <measure number="118" width="545">
+  <measure number="118" width="544">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -10900,7 +10900,7 @@
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note color="#000000" default-x="92" default-y="4">
+   <note color="#000000" default-x="91" default-y="4">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -10914,7 +10914,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="148" default-y="4">
+   <note color="#000000" default-x="147" default-y="4">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -10927,7 +10927,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="205" default-y="4">
+   <note color="#000000" default-x="204" default-y="4">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -10941,7 +10941,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="262" default-y="4">
+   <note color="#000000" default-x="261" default-y="4">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -10969,7 +10969,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="375" default-y="-5">
+   <note color="#000000" default-x="374" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -11012,7 +11012,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 119 ==============-->
-  <measure number="119" width="467">
+  <measure number="119" width="468">
    <note color="#000000" default-x="15" default-y="9">
     <pitch>
      <step>B</step>
@@ -11054,7 +11054,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="184" default-y="9">
+   <note color="#000000" default-x="185" default-y="9">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -11082,7 +11082,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="297" default-y="9">
+   <note color="#000000" default-x="298" default-y="9">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -11096,7 +11096,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="354" default-y="9">
+   <note color="#000000" default-x="355" default-y="9">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -11744,7 +11744,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="268" default-y="-52">
+   <note color="#000000" default-x="269" default-y="-52">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -11817,7 +11817,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="60" default-y="12">
+   <note color="#000000" default-x="59" default-y="12">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -11860,7 +11860,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="193" default-y="-15">
+   <note color="#000000" default-x="192" default-y="-15">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -12186,7 +12186,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 134 ==============-->
-  <measure number="134" width="213">
+  <measure number="134" width="212">
    <note color="#000000" default-x="15" default-y="-15">
     <pitch>
      <step>D</step>
@@ -12200,7 +12200,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="47" default-y="-15">
+   <note color="#000000" default-x="46" default-y="-15">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -12214,7 +12214,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="78" default-y="-15">
+   <note color="#000000" default-x="77" default-y="-15">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -12227,7 +12227,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="109" default-y="-15">
+   <note color="#000000" default-x="108" default-y="-15">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -12240,7 +12240,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note default-x="140">
+   <note default-x="139">
     <rest />
     <duration>512</duration>
     <instrument id="P1-I1" />
@@ -12425,7 +12425,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="201" default-y="12">
+   <note color="#000000" default-x="202" default-y="12">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -12438,7 +12438,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="232" default-y="12">
+   <note color="#000000" default-x="233" default-y="12">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -13304,8 +13304,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 144 ==============-->
-  <measure number="144" width="331">
-   <note color="#000000" default-x="19" default-y="14">
+  <measure number="144" width="330">
+   <note color="#000000" default-x="18" default-y="14">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -13319,7 +13319,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="58" default-y="14">
+   <note color="#000000" default-x="57" default-y="14">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -13334,7 +13334,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="97" default-y="14">
+   <note color="#000000" default-x="96" default-y="14">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -13349,7 +13349,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="136" default-y="14">
+   <note color="#000000" default-x="135" default-y="14">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -13363,7 +13363,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="175" default-y="12">
+   <note color="#000000" default-x="174" default-y="12">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -13377,7 +13377,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="214" default-y="12">
+   <note color="#000000" default-x="213" default-y="12">
     <pitch>
      <step>G</step>
      <alter>1</alter>
@@ -13391,7 +13391,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="253" default-y="12">
+   <note color="#000000" default-x="252" default-y="12">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -13404,7 +13404,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="292" default-y="12">
+   <note color="#000000" default-x="291" default-y="12">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -13421,7 +13421,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 145 ==============-->
-  <measure number="145" width="278">
+  <measure number="145" width="279">
    <note color="#000000" default-x="15" default-y="12">
     <pitch>
      <step>B</step>
@@ -13459,7 +13459,7 @@
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="146" default-y="9">
+   <note color="#000000" default-x="147" default-y="9">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -13473,7 +13473,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="185" default-y="9">
+   <note color="#000000" default-x="186" default-y="9">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -13734,7 +13734,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="200" default-y="-32">
+   <note color="#000000" default-x="201" default-y="-32">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -13946,7 +13946,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="271" default-y="-52">
+   <note color="#000000" default-x="272" default-y="-52">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -13963,7 +13963,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 150 ==============-->
-  <measure number="150" width="307">
+  <measure number="150" width="306">
    <note color="#000000" default-x="15" default-y="4">
     <pitch>
      <step>A</step>
@@ -13978,7 +13978,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="52" default-y="4">
+   <note color="#000000" default-x="51" default-y="4">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -13991,7 +13991,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="88" default-y="4">
+   <note color="#000000" default-x="87" default-y="4">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -14005,7 +14005,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="125" default-y="4">
+   <note color="#000000" default-x="124" default-y="4">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -14018,7 +14018,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="161" default-y="19">
+   <note color="#000000" default-x="160" default-y="19">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -14033,7 +14033,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="198" default-y="19">
+   <note color="#000000" default-x="197" default-y="19">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -14046,7 +14046,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="234" default-y="19">
+   <note color="#000000" default-x="233" default-y="19">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -14912,7 +14912,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="118" default-y="-29">
+   <note color="#000000" default-x="117" default-y="-29">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -14954,7 +14954,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="197" default-y="-49">
+   <note color="#000000" default-x="196" default-y="-49">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -14996,7 +14996,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="278" default-y="-49">
+   <note color="#000000" default-x="277" default-y="-49">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -15139,7 +15139,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="156" default-y="17">
+   <note color="#000000" default-x="157" default-y="17">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -15201,7 +15201,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="77" default-y="2">
+   <note color="#000000" default-x="78" default-y="2">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -15241,7 +15241,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="156" default-y="-15">
+   <note color="#000000" default-x="157" default-y="-15">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -15278,7 +15278,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 166 ==============-->
-  <measure number="166" width="284">
+  <measure number="166" width="283">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -15291,7 +15291,7 @@
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note color="#000000" default-x="92" default-y="17">
+   <note color="#000000" default-x="91" default-y="17">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -15304,7 +15304,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="118" default-y="17">
+   <note color="#000000" default-x="117" default-y="17">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -15318,7 +15318,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="143" default-y="17">
+   <note color="#000000" default-x="142" default-y="17">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -15331,7 +15331,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="169" default-y="17">
+   <note color="#000000" default-x="168" default-y="17">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -15345,7 +15345,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="198" default-y="-5">
+   <note color="#000000" default-x="197" default-y="-5">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -15360,7 +15360,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="223" default-y="-5">
+   <note color="#000000" default-x="222" default-y="-5">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -15373,7 +15373,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note default-x="249">
+   <note default-x="248">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -15403,7 +15403,7 @@
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note default-x="74">
+   <note default-x="75">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -15613,7 +15613,7 @@
     <beam number="1">continue</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="117" default-y="-52">
+   <note color="#000000" default-x="116" default-y="-52">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -16153,8 +16153,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 176 ==============-->
-  <measure number="176" width="243">
-   <note color="#000000" default-x="19" default-y="-49">
+  <measure number="176" width="242">
+   <note color="#000000" default-x="18" default-y="-49">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -16168,7 +16168,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="47" default-y="-49">
+   <note color="#000000" default-x="46" default-y="-49">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -16183,7 +16183,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="75" default-y="-49">
+   <note color="#000000" default-x="74" default-y="-49">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -16196,7 +16196,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="104" default-y="-49">
+   <note color="#000000" default-x="103" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -16211,7 +16211,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="132" default-y="-39">
+   <note color="#000000" default-x="131" default-y="-39">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -16226,7 +16226,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="160" default-y="-39">
+   <note color="#000000" default-x="159" default-y="-39">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -16240,7 +16240,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="188" default-y="-39">
+   <note color="#000000" default-x="187" default-y="-39">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -16372,7 +16372,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 178 ==============-->
-  <measure number="178" width="231">
+  <measure number="178" width="232">
    <note color="#000000" default-x="15" default-y="-49">
     <pitch>
      <step>E</step>
@@ -16825,7 +16825,7 @@
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note color="#000000" default-x="92" default-y="-29">
+   <note color="#000000" default-x="91" default-y="-29">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -16838,7 +16838,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="207" default-y="-29">
+   <note color="#000000" default-x="206" default-y="-29">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -16852,7 +16852,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="322" default-y="-29">
+   <note color="#000000" default-x="321" default-y="-29">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -16866,7 +16866,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="437" default-y="-29">
+   <note color="#000000" default-x="436" default-y="-29">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -16921,7 +16921,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="898" default-y="-42">
+   <note color="#000000" default-x="897" default-y="-42">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -17833,7 +17833,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="265" default-y="-62">
+   <note color="#000000" default-x="266" default-y="-62">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -17850,7 +17850,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 192 ==============-->
-  <measure number="192" width="258">
+  <measure number="192" width="257">
    <note color="#000000" default-x="15" default-y="-52">
     <pitch>
      <step>B</step>
@@ -17879,7 +17879,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="76" default-y="-52">
+   <note color="#000000" default-x="75" default-y="-52">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -17893,7 +17893,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="106" default-y="-52">
+   <note color="#000000" default-x="105" default-y="-52">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -17921,7 +17921,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="167" default-y="-52">
+   <note color="#000000" default-x="166" default-y="-52">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -17936,7 +17936,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="197" default-y="-52">
+   <note color="#000000" default-x="196" default-y="-52">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -18198,7 +18198,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note default-x="201">
+   <note default-x="202">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -18272,7 +18272,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 197 ==============-->
-  <measure number="197" width="182">
+  <measure number="197" width="183">
    <note color="#000000" default-x="16" default-y="-50">
     <pitch>
      <step>C</step>
@@ -18308,7 +18308,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="104" default-y="17">
+   <note color="#000000" default-x="105" default-y="17">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -18353,7 +18353,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 198 ==============-->
-  <measure number="198" width="214">
+  <measure number="198" width="213">
    <note color="#000000" default-x="15" default-y="9">
     <pitch>
      <step>G</step>
@@ -18369,7 +18369,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="40" default-y="9">
+   <note color="#000000" default-x="39" default-y="9">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -18382,7 +18382,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="64" default-y="9">
+   <note color="#000000" default-x="63" default-y="9">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -18396,7 +18396,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="88" default-y="9">
+   <note color="#000000" default-x="87" default-y="9">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -18410,7 +18410,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="114" default-y="-52">
+   <note color="#000000" default-x="113" default-y="-52">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -18424,7 +18424,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="140" default-y="-52">
+   <note color="#000000" default-x="139" default-y="-52">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -18438,7 +18438,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="163" default-y="-52">
+   <note color="#000000" default-x="162" default-y="-52">
     <pitch>
      <step>F</step>
      <octave>5</octave>
@@ -18451,7 +18451,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="189" default-y="-52">
+   <note color="#000000" default-x="188" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -18973,7 +18973,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 205 ==============-->
-  <measure number="205" width="315">
+  <measure number="205" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -19300,8 +19300,8 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 208 ==============-->
-  <measure number="208" width="180">
-   <note color="#000000" default-x="19" default-y="-5">
+  <measure number="208" width="179">
+   <note color="#000000" default-x="18" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -19329,7 +19329,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147" default-y="-10">
+   <note color="#000000" default-x="146" default-y="-10">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -19762,7 +19762,7 @@
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note color="#000000" default-x="92" default-y="10">
+   <note color="#000000" default-x="91" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -19775,7 +19775,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="133" default-y="-5">
+   <note color="#000000" default-x="132" default-y="-5">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -19790,7 +19790,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="161" default-y="-5">
+   <note color="#000000" default-x="160" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -19805,7 +19805,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="182" default-y="-5">
+   <note color="#000000" default-x="181" default-y="-5">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -19818,7 +19818,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="216" default-y="-5">
+   <note color="#000000" default-x="215" default-y="-5">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -19867,7 +19867,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="69">
+   <note color="#000000" default-x="68">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -19971,7 +19971,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="86" default-y="-24">
+   <note color="#000000" default-x="87" default-y="-24">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -20089,7 +20089,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 222 ==============-->
-  <measure number="222" width="128">
+  <measure number="222" width="129">
    <note default-x="15">
     <rest />
     <duration>512</duration>
@@ -20576,7 +20576,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 227 ==============-->
-  <measure number="227" width="250">
+  <measure number="227" width="251">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -20734,7 +20734,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 230 ==============-->
-  <measure number="230" width="222">
+  <measure number="230" width="221">
    <note color="#000000" default-x="15" default-y="-52">
     <pitch>
      <step>A</step>
@@ -20749,7 +20749,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="43" default-y="-52">
+   <note color="#000000" default-x="42" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -20763,7 +20763,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="71" default-y="-52">
+   <note color="#000000" default-x="70" default-y="-52">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -20777,7 +20777,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="99" default-y="-52">
+   <note color="#000000" default-x="98" default-y="-52">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -20790,7 +20790,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="127" default-y="4">
+   <note color="#000000" default-x="126" default-y="4">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -20803,7 +20803,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="155" default-y="4">
+   <note color="#000000" default-x="154" default-y="4">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -20816,7 +20816,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="184">
+   <note color="#000000" default-x="183">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -20832,7 +20832,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 231 ==============-->
-  <measure number="231" width="238">
+  <measure number="231" width="239">
    <note color="#000000" default-x="15" default-y="-62">
     <pitch>
      <step>F</step>
@@ -20931,7 +20931,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="210" default-y="-49">
+   <note color="#000000" default-x="211" default-y="-49">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -21828,7 +21828,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 240 ==============-->
-  <measure number="240" width="383">
+  <measure number="240" width="382">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -21854,7 +21854,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="135" default-y="12">
+   <note color="#000000" default-x="134" default-y="12">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -21868,7 +21868,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="173" default-y="12">
+   <note color="#000000" default-x="172" default-y="12">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -21882,7 +21882,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="212" default-y="12">
+   <note color="#000000" default-x="211" default-y="12">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -21896,7 +21896,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="251" default-y="12">
+   <note color="#000000" default-x="250" default-y="12">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -21924,7 +21924,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="329" default-y="-55">
+   <note color="#000000" default-x="328" default-y="-55">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -22087,7 +22087,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="93" default-y="-35">
+   <note color="#000000" default-x="94" default-y="-35">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -22257,7 +22257,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="252" default-y="12">
+   <note color="#000000" default-x="253" default-y="12">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -22271,7 +22271,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="279" default-y="12">
+   <note color="#000000" default-x="280" default-y="12">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -22433,7 +22433,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 246 ==============-->
-  <measure number="246" width="216">
+  <measure number="246" width="215">
    <note color="#000000" default-x="15" default-y="12">
     <pitch>
      <step>B</step>
@@ -22448,7 +22448,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="42" default-y="12">
+   <note color="#000000" default-x="41" default-y="12">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -22476,7 +22476,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="96" default-y="12">
+   <note color="#000000" default-x="95" default-y="12">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -22490,7 +22490,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="125" default-y="17">
+   <note color="#000000" default-x="124" default-y="17">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -22505,7 +22505,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="152" default-y="17">
+   <note color="#000000" default-x="151" default-y="17">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -22518,7 +22518,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note default-x="179">
+   <note default-x="178">
     <rest />
     <duration>256</duration>
     <instrument id="P1-I1" />
@@ -23371,7 +23371,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 255 ==============-->
-  <measure number="255" width="242">
+  <measure number="255" width="243">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -23446,7 +23446,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="42" default-y="-52">
+   <note color="#000000" default-x="41" default-y="-52">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -23474,7 +23474,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="95" default-y="-52">
+   <note color="#000000" default-x="94" default-y="-52">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -23488,7 +23488,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="123" default-y="-39">
+   <note color="#000000" default-x="122" default-y="-39">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -23503,7 +23503,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="153" default-y="-39">
+   <note color="#000000" default-x="152" default-y="-39">
     <pitch>
      <step>B</step>
      <alter>-1</alter>
@@ -23532,7 +23532,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="206" default-y="-39">
+   <note color="#000000" default-x="205" default-y="-39">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -23774,7 +23774,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 261 ==============-->
-  <measure number="261" width="152">
+  <measure number="261" width="153">
    <note color="#000000" default-x="16" default-y="-55">
     <pitch>
      <step>B</step>
@@ -23813,7 +23813,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="119" default-y="10">
+   <note color="#000000" default-x="120" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -23828,7 +23828,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 262 ==============-->
-  <measure number="262" width="197">
+  <measure number="262" width="196">
    <note color="#000000" default-x="15" default-y="10">
     <pitch>
      <step>A</step>
@@ -23843,7 +23843,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="50" default-y="12">
+   <note color="#000000" default-x="49" default-y="12">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -23857,7 +23857,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="76" default-y="12">
+   <note color="#000000" default-x="75" default-y="12">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -23871,7 +23871,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note default-x="100">
+   <note default-x="99">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -23879,7 +23879,7 @@
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="125">
+   <note color="#000000" default-x="124">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -23893,7 +23893,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="164">
+   <note color="#000000" default-x="163">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -23937,7 +23937,7 @@
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="87" default-y="-5">
+   <note color="#000000" default-x="88" default-y="-5">
     <pitch>
      <step>E</step>
      <alter>-1</alter>
@@ -24778,7 +24778,7 @@
   </measure>
   <!--============== Part: P1, Measure: 272 ==============-->
   <measure number="272" width="281">
-   <note color="#000000" default-x="19" default-y="-52">
+   <note color="#000000" default-x="18" default-y="-52">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -24792,7 +24792,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="52" default-y="-52">
+   <note color="#000000" default-x="51" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -24806,7 +24806,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="85" default-y="-52">
+   <note color="#000000" default-x="84" default-y="-52">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -24821,7 +24821,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="118" default-y="-52">
+   <note color="#000000" default-x="117" default-y="-52">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -24850,7 +24850,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="183" default-y="-49">
+   <note color="#000000" default-x="182" default-y="-49">
     <pitch>
      <step>D</step>
      <alter>1</alter>
@@ -24864,7 +24864,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="216" default-y="-49">
+   <note color="#000000" default-x="215" default-y="-49">
     <pitch>
      <step>C</step>
      <alter>1</alter>
@@ -24878,7 +24878,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="249" default-y="-49">
+   <note color="#000000" default-x="248" default-y="-49">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -25346,7 +25346,7 @@
    </note>
   </measure>
   <!--============== Part: P1, Measure: 278 ==============-->
-  <measure number="278" width="225">
+  <measure number="278" width="224">
    <note color="#000000" default-x="15" default-y="4">
     <pitch>
      <step>A</step>
@@ -25361,7 +25361,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="41" default-y="4">
+   <note color="#000000" default-x="40" default-y="4">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -25375,7 +25375,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="67" default-y="4">
+   <note color="#000000" default-x="66" default-y="4">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -25388,7 +25388,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="93" default-y="4">
+   <note color="#000000" default-x="92" default-y="4">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -25401,7 +25401,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="122" default-y="19">
+   <note color="#000000" default-x="121" default-y="19">
     <pitch>
      <step>F</step>
      <alter>1</alter>
@@ -25416,7 +25416,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="148" default-y="19">
+   <note color="#000000" default-x="147" default-y="19">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -25429,7 +25429,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="174" default-y="19">
+   <note color="#000000" default-x="173" default-y="19">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -25543,7 +25543,7 @@
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="175" default-y="5">
+   <note color="#000000" default-x="176" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -26201,7 +26201,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="307" default-y="12">
+   <note color="#000000" default-x="308" default-y="12">
     <pitch>
      <step>A</step>
      <alter>-1</alter>
@@ -26245,7 +26245,7 @@
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="71" default-y="-52">
+   <note color="#000000" default-x="70" default-y="-52">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -26258,7 +26258,7 @@
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="111" default-y="-52">
+   <note color="#000000" default-x="110" default-y="-52">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -26301,7 +26301,7 @@
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note color="#000000" default-x="232" default-y="-72">
+   <note color="#000000" default-x="231" default-y="-72">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -26594,7 +26594,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="211" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="211" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -26637,7 +26637,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="120" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="120" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -26742,7 +26742,7 @@
   <measure number="6" width="200">
    <direction>
     <direction-type>
-     <words default-x="37" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="37" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -26844,7 +26844,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="118" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="118" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -26866,7 +26866,7 @@
   <measure number="11" width="132">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -26887,7 +26887,7 @@
   <measure number="12" width="143">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -26930,7 +26930,7 @@
   <measure number="14" width="207">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27031,7 +27031,7 @@
   <measure number="18" width="138">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27134,7 +27134,7 @@
   <measure number="22" width="323">
    <direction>
     <direction-type>
-     <words default-x="46" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="46" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -27235,7 +27235,7 @@
   <measure number="26" width="264">
    <direction>
     <direction-type>
-     <words default-x="38" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="38" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -27271,7 +27271,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27292,7 +27292,7 @@
   <measure number="28" width="100">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27335,7 +27335,7 @@
   <measure number="30" width="228">
    <direction>
     <direction-type>
-     <words default-x="35" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="35" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -27413,7 +27413,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="215" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="215" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27457,7 +27457,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="138" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="138" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27500,7 +27500,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="138" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="138" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27616,10 +27616,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 38 ==============-->
-  <measure number="38" width="231">
+  <measure number="38" width="230">
    <direction>
     <direction-type>
-     <words default-x="36" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="35" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -27721,7 +27721,7 @@
   <measure number="42" width="229">
    <direction>
     <direction-type>
-     <words default-x="38" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="38" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -27743,7 +27743,7 @@
   <measure number="43" width="247">
    <direction>
     <direction-type>
-     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27764,7 +27764,7 @@
   <measure number="44" width="211">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27821,7 +27821,7 @@
   <measure number="46" width="468">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27878,12 +27878,12 @@
   <measure number="48" width="225">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -27922,7 +27922,7 @@
   <measure number="50" width="237">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -27977,7 +27977,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 52 ==============-->
-  <measure number="52" width="205">
+  <measure number="52" width="206">
    <direction>
     <direction-type>
      <words default-x="30" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
@@ -28022,10 +28022,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 54 ==============-->
-  <measure number="54" width="125">
+  <measure number="54" width="124">
    <direction>
     <direction-type>
-     <words default-x="23" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="22" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -28140,7 +28140,7 @@
   <measure number="58" width="312">
    <direction>
     <direction-type>
-     <words default-x="46" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="46" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -28162,7 +28162,7 @@
   <measure number="59" width="312">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28197,7 +28197,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28218,7 +28218,7 @@
   <measure number="61" width="62">
    <direction>
     <direction-type>
-     <words default-x="1" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
+     <words default-x="2" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -28237,10 +28237,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 62 ==============-->
-  <measure number="62" width="135">
+  <measure number="62" width="136">
    <direction>
     <direction-type>
-     <words default-x="18" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="18" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -28260,7 +28260,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 63 ==============-->
-  <measure number="63" width="190">
+  <measure number="63" width="188">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
@@ -28304,7 +28304,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="115" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="115" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28348,7 +28348,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="96" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="96" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28405,7 +28405,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="219" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="219" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28510,13 +28510,13 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="115" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="114" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="92">
+   <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -28574,7 +28574,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 73 ==============-->
-  <measure number="73" width="228">
+  <measure number="73" width="229">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">G min7b5</words>
@@ -28595,10 +28595,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 74 ==============-->
-  <measure number="74" width="228">
+  <measure number="74" width="229">
    <direction>
     <direction-type>
-     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -28634,7 +28634,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28669,7 +28669,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28712,7 +28712,7 @@
   <measure number="78" width="312">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28766,15 +28766,15 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 80 ==============-->
-  <measure number="80" width="323">
+  <measure number="80" width="322">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -28789,7 +28789,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 81 ==============-->
-  <measure number="81" width="294">
+  <measure number="81" width="295">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
@@ -28827,7 +28827,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="86" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="86" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -28905,7 +28905,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 85 ==============-->
-  <measure number="85" width="248">
+  <measure number="85" width="249">
    <direction>
     <direction-type>
      <words default-x="10" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">A min7b5</words>
@@ -28930,7 +28930,7 @@
   <measure number="86" width="208">
    <direction>
     <direction-type>
-     <words default-x="33" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="32" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29031,7 +29031,7 @@
   <measure number="90" width="241">
    <direction>
     <direction-type>
-     <words default-x="36" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="36" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29067,7 +29067,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29102,7 +29102,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29145,7 +29145,7 @@
   <measure number="94" width="354">
    <direction>
     <direction-type>
-     <words default-x="55" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="55" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29200,7 +29200,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 96 ==============-->
-  <measure number="96" width="216">
+  <measure number="96" width="215">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Ab min7</words>
@@ -29223,7 +29223,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="110" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="109" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29267,7 +29267,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29310,7 +29310,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="127" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="127" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29426,10 +29426,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 102 ==============-->
-  <measure number="102" width="312">
+  <measure number="102" width="311">
    <direction>
     <direction-type>
-     <words default-x="42" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="41" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29531,7 +29531,7 @@
   <measure number="106" width="234">
    <direction>
     <direction-type>
-     <words default-x="34" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="34" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29553,7 +29553,7 @@
   <measure number="107" width="236">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29588,7 +29588,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29631,7 +29631,7 @@
   <measure number="110" width="309">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29650,7 +29650,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 111 ==============-->
-  <measure number="111" width="597">
+  <measure number="111" width="598">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -29685,15 +29685,15 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 112 ==============-->
-  <measure number="112" width="415">
+  <measure number="112" width="414">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -29746,7 +29746,7 @@
   <measure number="114" width="170">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -29832,7 +29832,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 118 ==============-->
-  <measure number="118" width="545">
+  <measure number="118" width="544">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -29849,13 +29849,13 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="142" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="141" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="92">
+   <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -29868,7 +29868,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 119 ==============-->
-  <measure number="119" width="467">
+  <measure number="119" width="468">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
@@ -29964,7 +29964,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="116" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="116" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -29986,7 +29986,7 @@
   <measure number="123" width="189">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30007,7 +30007,7 @@
   <measure number="124" width="112">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30050,7 +30050,7 @@
   <measure number="126" width="261">
    <direction>
     <direction-type>
-     <words default-x="41" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="41" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -30128,12 +30128,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="187" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="186" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="193" default-y="-10">
+   <note color="#000000" default-x="192" default-y="-10">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -30172,7 +30172,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="113" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="113" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30229,7 +30229,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="196" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="196" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30331,10 +30331,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 134 ==============-->
-  <measure number="134" width="213">
+  <measure number="134" width="212">
    <direction>
     <direction-type>
-     <words default-x="41" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="40" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -30436,7 +30436,7 @@
   <measure number="138" width="468">
    <direction>
     <direction-type>
-     <words default-x="65" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="65" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -30472,7 +30472,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30507,7 +30507,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30550,7 +30550,7 @@
   <measure number="142" width="312">
    <direction>
     <direction-type>
-     <words default-x="10" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="10" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30604,15 +30604,15 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 144 ==============-->
-  <measure number="144" width="331">
+  <measure number="144" width="330">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -30627,7 +30627,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 145 ==============-->
-  <measure number="145" width="278">
+  <measure number="145" width="279">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
@@ -30665,7 +30665,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30765,10 +30765,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 150 ==============-->
-  <measure number="150" width="307">
+  <measure number="150" width="306">
    <direction>
     <direction-type>
-     <words default-x="46" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="45" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -30883,7 +30883,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -30919,7 +30919,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30940,7 +30940,7 @@
   <measure number="156" width="171">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -30983,7 +30983,7 @@
   <measure number="158" width="186">
    <direction>
     <direction-type>
-     <words default-x="26" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="26" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -31061,12 +31061,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="191" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="190" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="197" default-y="-10">
+   <note color="#000000" default-x="196" default-y="-10">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -31105,7 +31105,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="98" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="98" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31148,7 +31148,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="70" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="70" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31250,7 +31250,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 166 ==============-->
-  <measure number="166" width="284">
+  <measure number="166" width="283">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -31267,13 +31267,13 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="112" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="111" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="92">
+   <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -31311,7 +31311,7 @@
   <measure number="168" width="164">
    <direction>
     <direction-type>
-     <words default-x="23" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
+     <words default-x="24" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -31355,7 +31355,7 @@
   <measure number="170" width="244">
    <direction>
     <direction-type>
-     <words default-x="37" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="37" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -31391,7 +31391,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31412,7 +31412,7 @@
   <measure number="172" width="277">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31469,7 +31469,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31523,15 +31523,15 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 176 ==============-->
-  <measure number="176" width="243">
+  <measure number="176" width="242">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -31567,10 +31567,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 178 ==============-->
-  <measure number="178" width="231">
+  <measure number="178" width="232">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31687,13 +31687,13 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="201" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="92">
+   <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -31788,7 +31788,7 @@
   <measure number="186" width="265">
    <direction>
     <direction-type>
-     <words default-x="40" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="40" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -31824,7 +31824,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31845,7 +31845,7 @@
   <measure number="188" width="320">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -31902,7 +31902,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -31957,7 +31957,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 192 ==============-->
-  <measure number="192" width="258">
+  <measure number="192" width="257">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Ab min7</words>
@@ -31980,7 +31980,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="130" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="130" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32024,7 +32024,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32067,7 +32067,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32147,7 +32147,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 197 ==============-->
-  <measure number="197" width="182">
+  <measure number="197" width="183">
    <direction>
     <direction-type>
      <words default-x="10" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">A min7b5</words>
@@ -32169,10 +32169,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 198 ==============-->
-  <measure number="198" width="214">
+  <measure number="198" width="213">
    <direction>
     <direction-type>
-     <words default-x="34" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="33" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -32274,7 +32274,7 @@
   <measure number="202" width="205">
    <direction>
     <direction-type>
-     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -32296,7 +32296,7 @@
   <measure number="203" width="163">
    <direction>
     <direction-type>
-     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32317,7 +32317,7 @@
   <measure number="204" width="98">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32335,7 +32335,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 205 ==============-->
-  <measure number="205" width="315">
+  <measure number="205" width="316">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -32374,7 +32374,7 @@
   <measure number="206" width="258">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32414,15 +32414,15 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 208 ==============-->
-  <measure number="208" width="180">
+  <measure number="208" width="179">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -32475,7 +32475,7 @@
   <measure number="210" width="194">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32578,13 +32578,13 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="96" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="95" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="92">
+   <note color="#000000" default-x="91">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -32665,7 +32665,7 @@
   <measure number="218" width="132">
    <direction>
     <direction-type>
-     <words default-x="23" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="23" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -32687,7 +32687,7 @@
   <measure number="219" width="56">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="-16" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32708,7 +32708,7 @@
   <measure number="220" width="107">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32748,10 +32748,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 222 ==============-->
-  <measure number="222" width="128">
+  <measure number="222" width="129">
    <direction>
     <direction-type>
-     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="17" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -32829,7 +32829,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="111" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32873,7 +32873,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32916,7 +32916,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="122" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="122" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -32936,7 +32936,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 227 ==============-->
-  <measure number="227" width="250">
+  <measure number="227" width="251">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -33018,10 +33018,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 230 ==============-->
-  <measure number="230" width="222">
+  <measure number="230" width="221">
    <direction>
     <direction-type>
-     <words default-x="37" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="36" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33040,7 +33040,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 231 ==============-->
-  <measure number="231" width="238">
+  <measure number="231" width="239">
    <direction>
     <direction-type>
      <words default-x="9" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
@@ -33123,7 +33123,7 @@
   <measure number="234" width="243">
    <direction>
     <direction-type>
-     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="35" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33145,7 +33145,7 @@
   <measure number="235" width="232">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33180,7 +33180,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33223,7 +33223,7 @@
   <measure number="238" width="250">
    <direction>
     <direction-type>
-     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33263,7 +33263,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 240 ==============-->
-  <measure number="240" width="383">
+  <measure number="240" width="382">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -33280,7 +33280,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="90" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="89" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33324,7 +33324,7 @@
   <measure number="242" width="303">
    <direction>
     <direction-type>
-     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="10" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33424,10 +33424,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 246 ==============-->
-  <measure number="246" width="216">
+  <measure number="246" width="215">
    <direction>
     <direction-type>
-     <words default-x="36" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="35" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33528,7 +33528,7 @@
   <measure number="250" width="305">
    <direction>
     <direction-type>
-     <words default-x="45" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="45" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33564,7 +33564,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33585,7 +33585,7 @@
   <measure number="252" width="233">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33628,7 +33628,7 @@
   <measure number="254" width="233">
    <direction>
     <direction-type>
-     <words default-x="36" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="36" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33648,7 +33648,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 255 ==============-->
-  <measure number="255" width="242">
+  <measure number="255" width="243">
    <print new-system="yes">
     <system-layout>
      <system-margins>
@@ -33706,12 +33706,12 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="117" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="116" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="123" default-y="-10">
+   <note color="#000000" default-x="122" default-y="-10">
     <pitch>
      <step>D</step>
      <alter>-1</alter>
@@ -33750,7 +33750,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="128" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33774,7 +33774,7 @@
   <measure number="258" width="139">
    <direction>
     <direction-type>
-     <words default-x="-7" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
+     <words default-x="9" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33793,7 +33793,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="71" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="71" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -33816,7 +33816,7 @@
   <measure number="259" width="166">
    <direction>
     <direction-type>
-     <words default-x="25" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
+     <words default-x="27" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Eb maj7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -33873,7 +33873,7 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 261 ==============-->
-  <measure number="261" width="152">
+  <measure number="261" width="153">
    <direction>
     <direction-type>
      <words default-x="10" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">A min7b5</words>
@@ -33895,10 +33895,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 262 ==============-->
-  <measure number="262" width="197">
+  <measure number="262" width="196">
    <direction>
     <direction-type>
-     <words default-x="27" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="26" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -34000,7 +34000,7 @@
   <measure number="266" width="226">
    <direction>
     <direction-type>
-     <words default-x="40" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="40" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -34022,7 +34022,7 @@
   <measure number="267" width="242">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34043,7 +34043,7 @@
   <measure number="268" width="224">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34100,7 +34100,7 @@
   <measure number="270" width="256">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="9" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34143,12 +34143,12 @@
   <measure number="272" width="281">
    <direction>
     <direction-type>
-     <words default-x="13" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
+     <words default-x="12" default-y="-90" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb min7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="19">
+   <note color="#000000" default-x="18">
     <pitch>
      <step>G</step>
      <alter>-1</alter>
@@ -34215,7 +34215,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="85" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34315,10 +34315,10 @@
    </note>
   </measure>
   <!--============== Part: P2, Measure: 278 ==============-->
-  <measure number="278" width="225">
+  <measure number="278" width="224">
    <direction>
     <direction-type>
-     <words default-x="35" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D 7</words>
+     <words default-x="35" default-y="-93" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">D dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -34419,7 +34419,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C 7</words>
+     <words default-x="200" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">C dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -34455,7 +34455,7 @@
    </attributes>
    <direction>
     <direction-type>
-     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="85" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34476,7 +34476,7 @@
   <measure number="284" width="232">
    <direction>
     <direction-type>
-     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F 7</words>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">F dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34519,7 +34519,7 @@
   <measure number="286" width="272">
    <direction>
     <direction-type>
-     <words default-x="40" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="40" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <offset sound="no">128</offset>
     <voice>1</voice>
@@ -34597,7 +34597,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="145" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db 7</words>
+     <words default-x="145" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Db dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34641,7 +34641,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="170" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb 7</words>
+     <words default-x="170" default-y="-92" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Gb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -34698,7 +34698,7 @@
    </note>
    <direction>
     <direction-type>
-     <words default-x="500" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb 7</words>
+     <words default-x="500" default-y="-80" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="12.0313" font-weight="normal">Bb dom7</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
